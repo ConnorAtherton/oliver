@@ -1,0 +1,20 @@
+{
+  "name": "Oliver",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ConnorAtherton/oliver",
+  "authors": [
+    "Connor Atherton"
+  ],
+  "description": "Ask for permission in the browser.",
+  "main": "src/oliver.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "browser",
+    "permission"
+  ],
+  "license": "MIT"
+}
