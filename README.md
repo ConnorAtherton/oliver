@@ -5,7 +5,7 @@ Ask for permissions in the browser.
 
 > Please sir, can I have more desktop permissions.
 >
-> - Oliver Twist
+>  Oliver Twist
 
 A small library to make issuing desktop notifications a breeze. [Demo](http://htmlpreview.github.io/?https://github.com/ConnorAtherton/oliver/blob/master/example/index.html)
 
@@ -21,7 +21,8 @@ var oliver = new Oliver({
 /* Create a notification overwriting any defaults.
  * *title* and *body* are mandatory. Everything else is optional.
  *
- * See here for all options https://developer.mozilla.org/en-US/docs/Web/API/notification
+ * See here for all options
+ * https://developer.mozilla.org/en-US/docs/Web/API/notification
  */
 var notification = oliver.notify({
 	// title: 'Each notification is separate' -> would overwrite
